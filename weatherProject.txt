@@ -1,0 +1,5 @@
+City Name : Trincomalee
+Current temperature is : 28.680000000000007
+Current weather desc : broken clouds
+Current Humidity : 66%
+Current wind speed :6.35kmph
